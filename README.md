@@ -4,7 +4,7 @@ An AI-powered CV screening application built with Django that automates resume e
 
 ## Features
 - Fetches and categorizes CV attachments from unread emails
-- Evaluates CVs against job requirements using Llama 3.7B LLM
+- Evaluates CVs against job requirements using Llama model
 - Provides 10-point scoring with detailed feedback
 - Supports PDF and DOCX file formats
 - Exports evaluation results with category breakdowns
